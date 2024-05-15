@@ -149,6 +149,7 @@ const openaiModels = [
   "gpt-4-turbo-2024-04-09",
   "gemini-1.0-pro",
   "gemini-1.5-pro-latest",
+  "gemini-1.5-flash-latest",
   "gemini-pro-vision",
   "claude-instant-1.2",
   "claude-2.0",
